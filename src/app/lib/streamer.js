@@ -84,7 +84,7 @@
             trackers: [
                 'udp://tracker.openbittorrent.com:80',
                 'udp://tracker.coppersurfer.tk:6969',
-                'udp://open.demonii.com:1337'
+                'udp://open.demonii.com:1337',
                 // more added by DJPRMF
 				'udp://tracker.blackunicorn.xyz:6969/announce',
 				'udp://castradio.net:6969/announce',

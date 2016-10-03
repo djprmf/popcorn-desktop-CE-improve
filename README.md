@@ -79,3 +79,4 @@ You should have received a copy of the GNU General Public License along with thi
 If you want to contact us : [hello@popcorntimece.tk](mailto:hello@popcorntimece.tk) or [use the form](https://popcorntimece.tk/contact/) on our website.
  
 Copyright (c) 2015 Popcorn Time CE - Released under the [GPL v3 license](LICENSE.txt).
+
